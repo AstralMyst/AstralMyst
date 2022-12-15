@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AstralMyst
 - 👀 I’m interested in video games, music, and programming
 - 🌱 I’m currently learning C++, Java, and Lua
-- 💞️ I’m not really looking to collaborate outside of my friends right now
+- 💞️ Looking to develop my programming ability and get a CS major in college.
 - 📫 Reach me through email kodyho345@gmail.com
 
 <!---
