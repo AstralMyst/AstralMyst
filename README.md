@@ -1,6 +1,6 @@
 #### Hello there!
 I'm **Kody Ho** (@AstralMyst)
-*USFCA 28' | IG: @luminarxty | discord: _luminarity | Email: kodyho345@gmail.com*
+> *USFCA 28' | IG: @luminarxty | discord: _luminarity | Email: kodyho345@gmail.com*
 
 I'm a CS Major from Southern California, born 05/29/2006
 LinkedIn: https://www.linkedin.com/in/kody-ho-81a592309/
