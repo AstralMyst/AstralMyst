@@ -5,7 +5,7 @@ I'm **Kody Ho** (@AstralMyst)
 
 I'm a CS Major from Southern California, born 05/29/2006  
 You can find me on [LinkedIn](https://www.linkedin.com/in/kody-ho-81a592309/)
-I have expereince in C++, Java, Python, and Lua, but I'm still learning.  
+> I have expereince in C++, Java, Python, and Lua, but I'm still learning.  
 > Fan of Rock and Metal music, Video games, and Digital Art  
 > Getting into Anime; watched Bocchi, Saiki K, MP100
 
