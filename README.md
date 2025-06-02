@@ -1,6 +1,6 @@
 Hello there!
 ----------------------------
-I'm **Kody Ho** (@AstralMyst)
+I'm **Kody Ho** (@kodyho)
 > *USFCA 28' | IG: @luminarxty | discord: _luminarity | [Personal Email](kodyho345@gmail.com) | [Organization Email](kwho2@dons.usfca.com)*
 
 I'm a CS Major from Southern California, born 05/29/2006.  
@@ -16,8 +16,3 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/kody-ho-81a592309/)
 What you're probably here for is my code stuff, so...
 - Personal Projects holds most of my code, ranging from my own code to high school projects.
 - Roblox Scripts is archived because I will no longer be updating it, but what is on there works as of when I uploaded them.
-
-<!---
-AstralMyst/AstralMyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
